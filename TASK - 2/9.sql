@@ -1,0 +1,3 @@
+SELECT *
+FROM worker_table
+WHERE Salary BETWEEN 100000 AND 500000;
